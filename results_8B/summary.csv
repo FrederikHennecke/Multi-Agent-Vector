@@ -1,0 +1,3 @@
+setup,dataset,num_examples,seconds
+lora,mmlu_pro:psychology,10,324.29
+vector_dom_orthogonal,mmlu_pro:psychology,10,291.77
